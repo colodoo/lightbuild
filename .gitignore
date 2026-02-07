@@ -1,0 +1,23 @@
+.vite-ssg-temp
+
+.idea/**
+.vscode/**
+.history/**
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+dev-dist
+*.local
+
+# lock
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+*.log
+
+data/
+docker/data/
+
