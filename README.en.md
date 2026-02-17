@@ -25,40 +25,17 @@ Lightbuild (Chinese: 轻构) is a next-generation low-code platform designed to 
 
 ---
 
-## 🛠 Tech Stack
+## Screenshots
 
-### Frontend
+![Component Management](./images/00.png)
 
-| Technology | Description |
-|------------|-------------|
-| **Vue 3** | Progressive JavaScript Framework (Composition API) |
-| **Vite** | Next Generation Frontend Tooling |
-| **TypeScript** | Strongly typed JavaScript |
-| **Element Plus** | Vue 3 UI Component Library |
-| **Pinia** | Intuitive Store for Vue.js |
-| **AntV X6** | Graph visualization library |
-| **BPMN.js** | Process modeling toolkit |
-| **CodeMirror 6** | Extensible code editor |
-| **UnoCSS** | Instant On-demand Atomic CSS Engine |
+![Low-Code Editor](./images/01.png)
 
-### Backend
+![DataSource Management](./images/02.png)
 
-| Technology | Description |
-|------------|-------------|
-| **Java 17** | LTS Java Version |
-| **Spring Boot 3** | Leading Java Application Framework |
-| **MyBatis-Plus** | Powerful ORM framework |
-| **Spring AI** | AI application framework for Java |
-| **Neo4j** | Graph Database & Vector Store |
-| **Hutool** | Java utility tool library |
-| **Tika & POI** | Content analysis and office document processing |
+![DataSource Management Digital Employee](./images/03.png)
 
-### Infrastructure
-
-- **Docker & Docker Compose**: Containerization and orchestration.
-- **MySQL 8.0**: Reliable relational database.
-- **Redis 7.0**: High-performance key-value store.
-- **Nginx**: High-performance web server.
+![Digital Employee](./images/04.png)
 
 ---
 
