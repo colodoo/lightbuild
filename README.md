@@ -26,40 +26,17 @@ Lightbuild（轻构）是一个下一代低代码平台，旨在重新定义应�
 
 ---
 
-## 🛠 技术栈
+## 截图
 
-### 前端 (Frontend)
+![组件管理](./images/00.png)
 
-| 技术 | 说明 |
-|------------|-------------|
-| **Vue 3** | 渐进式 JavaScript 框架 (Composition API) |
-| **Vite** | 下一代前端构建工具 |
-| **TypeScript** | 强类型 JavaScript |
-| **Element Plus** | 基于 Vue 3 的组件库 |
-| **Pinia** | 直观的 Vue.js 状态管理 |
-| **AntV X6** | 图可视化引擎 |
-| **BPMN.js** | 流程建模工具包 |
-| **CodeMirror 6** | 可扩展的代码编辑器 |
-| **UnoCSS** | 即时按需原子 CSS 引擎 |
+![低代码编辑器](./images/01.png)
 
-### 后端 (Backend)
+![数据源管理](./images/02.png)
 
-| 技术 | 说明 |
-|------------|-------------|
-| **Java 17** | LTS Java 版本 |
-| **Spring Boot 3** | 领先的 Java 应用框架 |
-| **MyBatis-Plus** | 强大的 ORM 框架 |
-| **Spring AI** | Java AI 应用框架 |
-| **Neo4j** | 图数据库与向量存储 |
-| **Hutool** | Java 工具类库 |
-| **Tika & POI** | 内容分析与办公文档处理 |
+![数据源管理数字员工](./images/03.png)
 
-### 基础设施 (Infrastructure)
-
-- **Docker & Docker Compose**: 容器化与编排。
-- **MySQL 8.0**: 可靠的关系型数据库。
-- **Redis 7.0**: 高性能键值存储。
-- **Nginx**: 高性能 Web 服务器。
+![数字员工](./images/04.png)
 
 ---
 
